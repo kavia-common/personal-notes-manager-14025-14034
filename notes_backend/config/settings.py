@@ -135,7 +135,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
+X_FRAME_OPTIONS = 'ALLOWALL'
 # Internationalization
 # https://docs.djangoproject.com/en/5.2/topics/i18n/
 
